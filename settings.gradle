@@ -1,0 +1,3 @@
+rootProject.name='AndroidArchitect'
+include ':app'
+include ':mvvm'
